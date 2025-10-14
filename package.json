@@ -1,0 +1,13 @@
+{
+  "name": "api-rest-demo",
+  "version": "1.0.0",
+  "description": "Rest API for products with authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ConttiDev",
+  "license": "GPL3",
+  "packageManager": "pnpm@10.17.0"
+}
